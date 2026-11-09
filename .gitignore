@@ -1,0 +1,19 @@
+# .NET / Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Runtime output of the vision scripts
+vision/captures/
+
+# OS
+Thumbs.db
+.DS_Store
